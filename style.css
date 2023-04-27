@@ -1,0 +1,97 @@
+.logo{
+    max-width: 100%;
+    height: auto;
+    vertical-align: middle;
+}
+.navhead{
+    margin: auto;
+}
+.navhead1{
+    color: #555;
+    font-family:'Manrope', sans-serif;
+    font-weight:500 ;
+    line-height: 26px;
+    font-size: 15px;
+    margin: 0;
+    padding: 0;
+    font-weight: bold;
+}
+.buynow{
+    text-decoration: none;
+    padding: 0 40px;
+    background-color: #f05e2d;
+    border-color: #f05e2d;
+    border-radius: 50px;
+    color: white;
+    height: 50px;
+    align-items: center ;
+    display: inline-flex;
+    font-family: 'Manrope', sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+}
+.subhead{
+    text-decoration: none;
+    padding: 0 40px;
+    border-radius: 50px;
+    color: white;
+    height: 30px;
+    align-items: center ;
+    display: inline-flex;
+    font-family: 'Manrope', sans-serif;
+    font-size: 11px;
+    font-weight: 800;
+    background-color: #124a2f;
+    margin-top: 85px;
+}
+.subhead1{
+    text-align: center;
+}
+.img{
+    position: relative;
+    margin: auto;
+}
+.main{
+    text-align: center;
+    align-items: center;
+}
+.tittel{
+    font-family:'Manrope', sans-serif;
+    font-size: 55px;
+    line-height: 1.45;
+    font-weight: 800;
+    text-transform:capitalize ;
+}
+.tittel1{
+    color: rgb(23, 84, 23);
+}
+.paragraph{
+    text-align: center;
+    font-size: 14px;
+}
+.bottom{
+    text-decoration: none;
+    padding: 0 40px;
+    border-radius: 50px;
+    color: white;
+    height: 50px;
+    align-items: center ;
+    display: inline-flex;
+    font-family: 'Manrope', sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+}
+.btn1{
+    background-color: #124a2f;
+    color: white;
+    margin-right: 13px;
+}
+.btn2{
+    color: #124a2f;
+    background-color: transparent;
+    border-color: #124a2f;
+    border:2px solid ;
+}
+.imgmargin{
+    margin-top: 130px;
+}
