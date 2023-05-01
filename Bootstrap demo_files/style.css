@@ -1,0 +1,44 @@
+.logo{
+    max-width: 100%;
+    height: auto;
+    vertical-align: middle;
+}
+.navhead{
+    margin: auto;
+}
+.navhead1{
+    color: #555;
+    font-family:'Manrope', sans-serif;
+    font-weight:500 ;
+    line-height: 26px;
+    font-size: 14px;
+    margin: 0;
+    padding: 0;
+    font-weight: bold;
+}
+.buynow{
+    text-decoration: none;
+    padding: 0 40px;
+    background-color: #f05e2d;
+    border-color: #f05e2d;
+    border-radius: 50px;
+    color: white;
+    height: 50px;
+    align-items: center ;
+    display: inline-flex;
+    font-family: 'Manrope', sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+}
+.subhead{
+    font-family:'Manrope', sans-serif;
+    font-size: 11px;
+    margin-bottom: 30px;
+    background-color: #124a2f;
+    color: white;
+    display: inline-flex;
+    padding: 8px, 25px;
+    border-radius: 30px;
+    font-weight: 800;
+
+}
