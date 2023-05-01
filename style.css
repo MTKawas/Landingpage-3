@@ -95,3 +95,16 @@
 .imgmargin{
     margin-top: 130px;
 }
+
+.card1{
+    align-items: center;
+    text-align: center;
+}
+
+.card2{
+    border: 3xp solid black;
+    border-radius: 10px;
+    width: 426px;
+    height: 229px;
+
+}
